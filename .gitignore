@@ -2,3 +2,8 @@
 /cmake-build-debug/
 
 *.exe
+/level1/cmake-build-debug/
+
+/level0/gobang/cmake-build-debug/
+
+/gobang/cmake-build-debug/

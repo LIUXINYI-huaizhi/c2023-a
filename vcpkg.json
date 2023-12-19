@@ -1,0 +1,10 @@
+{
+  "name" : "c2023-a",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "d8079ecd674fe5632277d78d761333467955adb1",
+  "dependencies" : [ {
+    "name" : "raylib",
+    "version>=" : "4.5.0#2",
+    "$comment" : "  # this is heuristically generated, and may not be correct\n\n  find_package(raylib CONFIG REQUIRED)\n\n  target_link_libraries(main PRIVATE raylib)\n"
+  } ]
+}
